@@ -89,7 +89,7 @@ class _PaymentPageState extends State<PaymentPage> {
               height: 40.0,
               child: ElevatedButton(
                 child: Text(
-                  'Pay with Khalti',
+                  'Pay via Khalti',
                   textAlign: TextAlign.center,
                 ),
                 style: ButtonStyle(
