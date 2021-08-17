@@ -1,4 +1,4 @@
-# khalit-payment-integration
+# khalti-payment-integration
 Khalti Payment Gateway Integration with Flutter and Dart
 
 Head to website below:
